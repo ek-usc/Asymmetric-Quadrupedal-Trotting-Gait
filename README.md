@@ -29,6 +29,8 @@ Can applying an offset to the inter-diagonal leg-pair phase, deviating from the 
 
 t (time in sec)
 
+(others omitted due to project scope)
+
 ## Experimental Setup
 
 (2x5 data points with 3 trials each = 30 total)
