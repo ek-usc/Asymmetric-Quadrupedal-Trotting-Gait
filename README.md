@@ -2,10 +2,11 @@
 Inter-Diagonal Leg-Pair Phase Asymmetry in the Trotting Gait may Reduce Lateral Drift for a Quadrupedal Robot when Climbing Sloped Inclines with discrete footholds
 
 ![](https://github.com/user-attachments/assets/6a3051fb-f376-471a-b2c7-3d6895913be6)
-![](https://github.com/user-attachments/assets/005965a4-1350-4c6d-a595-3e9e5e339b45) 
 
 # Research Question
 Can applying an offset to the inter-diagonal leg-pair phase, deviating from the canonical π for symmetric gaits, reduce lateral drift for a quadrupedal robot navigating a sloped incline with slanted footholds?
+
+![](https://github.com/user-attachments/assets/005965a4-1350-4c6d-a595-3e9e5e339b45) 
 
 # Methodology
 ## Inter-diagonal leg-pair phase asymmetry for trot:
