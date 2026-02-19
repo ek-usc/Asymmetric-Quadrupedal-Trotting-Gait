@@ -6,16 +6,21 @@ Can applying an offset to the inter-diagonal leg-pair phase, deviating from the 
 
 # Methodology
 ## Inter-diagonal leg-pair phase asymmetry for trot:
-𝚫𝛟1 = 𝛟 RR - 𝛟LF ≠ 0 (intra-diagonal leg-pair phase difference, first pair)\n
-𝚫𝛟2 = 𝛟RF - 𝛟LR ≠ 0 (intra-diagonal leg-pair phase difference, second pair)\n
-𝚫𝛟𝛂 = 𝛟LR - 𝛟LF ≠ 𝚷 (inter-diagonal leg-pair phase difference)\n 
+𝚫𝛟1 = 𝛟 RR - 𝛟LF ≠ 0 (intra-diagonal leg-pair phase difference, first pair)  
+
+𝚫𝛟2 = 𝛟RF - 𝛟LR ≠ 0 (intra-diagonal leg-pair phase difference, second pair)  
+
+𝚫𝛟𝛂 = 𝛟LR - 𝛟LF ≠ 𝚷 (inter-diagonal leg-pair phase difference)  
+
 𝛟 = 0 when the LF-RR pair enters stance
 ## Independent Variables
 𝛃 (slope incline) ∈ {5°, 10°}\n
-𝚫𝛟𝛂∈ {140°, 160°, 180°, 200°, 220°} (when 𝛃 = 5°)\n
+𝚫𝛟𝛂∈ {140°, 160°, 180°, 200°, 220°} (when 𝛃 = 5°)  
+
 𝚫𝛟𝛂∈ {160°, 170°, 180°, 190°, 200°} (when 𝛃 = 10°)
 ## Dependent Variables
-𝚫s (lateral drift in cm/trial)\n
+𝚫s (lateral drift in cm/trial)  
+
 t (time in sec)
 
 
