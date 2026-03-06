@@ -1,5 +1,4 @@
-# Asymmetric-Quadrupedal-Trotting-Gait
-Inter-Diagonal Leg-Pair Phase Asymmetry in the Trotting Gait may Reduce Lateral Drift for a Quadrupedal Robot when Climbing Sloped Inclines with discrete footholds
+# Inter-Diagonal Leg-Pair Phase Asymmetry in the Trotting Gait may Reduce Lateral Drift for a Quadrupedal Robot when Climbing Sloped Inclines with discrete footholds
 
 ![](https://github.com/user-attachments/assets/6a3051fb-f376-471a-b2c7-3d6895913be6)
 
